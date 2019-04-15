@@ -1,0 +1,6 @@
+{
+  "name": "chat test",
+  "description": "chat test",
+  "repository": "https://github.com/benjaminpollard/ChatTest.git",
+  "keywords": ["node", "websocket", "socket.io"]
+}
